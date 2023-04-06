@@ -210,3 +210,4 @@ ZK-STARK is considered immune to the threat of quantum computing, as it uses col
 - [ZK-STARKs — Create Verifiable Trust, even against Quantum Computers](https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d) — _Adam Luciano_
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html) — _Vitalik Buterin_
 - [What is Zero-Knowledge Proof and Its Role in Blockchain?](https://www.leewayhertz.com/zero-knowledge-proof-and-blockchain/) — _LeewayHertz_
+- [What is Blockchain Development with Secure and Innovative Solutions?](https://sofster.com/blockchain-development-company/) -_SofsterTechnologies_
